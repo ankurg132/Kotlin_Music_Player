@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ragini</string>
+    <string name="trending">Trending</string>
+    <string name="alliswell">Jab life ho out of control\n Honto ko karke gol\n Honto ko karke gol Siti bajaake bol Jab life ho out of control Honto ko karke gol Honto ko karke gol Siti bajaake bol Aal izz well Murgi ka jaane Ande ka kya hoga Are life milegi ya Tave pe fry hoga Koyi na jaane apna Future kya hoga Hont ghuma siti Baja siti bajaake bol Bhaiya aal izz well Are bhaiya aal izz well Are chaachu aal izz well Are bhaiya aal izz well Confusion hi confusion hai Solution kuchh pata nahi Solution jo mile toh saala Question kya tha pata nahi Dil jo tere baat Baat pe ghabraaye Dil pe rakh ke haath Use tu fusala le Dil idiot hai pyaar se Usako samajha le Hont ghuma siti baja Siti bajaake bol Bhaiya aal izz well Are bhaiya aal izz well Are chaachu aal izz well Are bhaiya aal izz well Scholarship ki piya daaru Ghum toh phir bhi mita nahi Agar battiya raakh ho gayi God toh phir bhi dikha nahi Bakara kya jaane usaki Jaan ka kya hoga Seekh ghusegi Ya saala kima hoga Koyi na jaane apna Future kya hoga Toh hont ghuma siti baja Siti bajaake bol Bhaiya aal izz well Are bhaiya aal izz well Are chaachu aal izz well Are bhaiya aal izz well Jab life ho out of control Honto ko karke gol Honto ko karke gol Siti bajaake bol Aal izz well Murgi ka jaane ande ka Kya hoga kya hoga Are life milegi ya tave pe Fry hoga ho ho ho Koyi na jaane apna future Kya hoga kya hoga Hont ghuma siti baja Siti bajaake bol Bhaiya aal izz well Are murgi aal izz well Are bakare aal izz well Are bhaiya aal izz well Na na na na na Are bhaiya aal izz well Are bhaiya aal izz well.</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lyrics">Lyrics</string>
+</resources>
