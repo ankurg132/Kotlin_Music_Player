@@ -1,5 +1,4 @@
 # Kotlin_Music_Player
-
 A music player app created in Kotlin.
 
 The app contain 10 songs with lyrics as a demo, you can select any song and it will start playing, on completion of a song, the next song will start to play automatically and the songs will stop in the end of the playlist.
